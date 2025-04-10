@@ -3,7 +3,7 @@
 Welcome to my interactive portfolio built with **Streamlit**. It showcases my work in **AI, Machine Learning, and Data Science** — featuring real-time projects, certifications, research publications, and more.
 
 ## 🔗 Live Demo
-👉 [Visit Live App](https://arshadmulla.streamlit.app)  <!-- Update if you changed your subdomain -->
+👉 [Visit Live App](https://arshad-portfolio.streamlit.app/)  <!-- Update if you changed your subdomain -->
 
 ## 💼 What's Inside?
 - 📊 **Projects** with interactive visuals and metrics  
